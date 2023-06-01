@@ -1,12 +1,16 @@
 
+## Getting started
 
-##Deploy the contract
+## Deploy the contract
 
+```bash 
 npx hardhat node 
 
 npx hardhat run --network localhost scripts/deploy.js
 
-##Run the development server:
+```
+
+## Run the development server:
 
 ```bash
 npm run dev
